@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+
+h2 {
+    font-weight: 500;
+}
+
+a {
+    text-decoration: none;
+}
+
+.child_3 button {
+    background: rgb(121, 202, 39);
+    outline: none;
+}
+
+.last_child {
+    display: flex;
+}
+
+.last_child div p {
+    font-size: 12px;
+}
+
+.last_child2 {}
+
+.form-control {
+    outline: none;
+}
+
+.color {
+    color: red;
+}
